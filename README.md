@@ -1,0 +1,1 @@
+# FinTick AI
